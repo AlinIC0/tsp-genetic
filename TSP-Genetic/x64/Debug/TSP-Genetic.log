@@ -1,0 +1,15 @@
+﻿  TSP-Genetic.cpp
+C:\Users\Alin\Desktop\Proiect Echipa\TSP-Genetic\TSP-Genetic\TSP-Genetic.cpp(48,20): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alin\Desktop\Proiect Echipa\TSP-Genetic\TSP-Genetic\TSP-Genetic.cpp(94,57): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Alin\Desktop\Proiect Echipa\TSP-Genetic\TSP-Genetic\TSP-Genetic.cpp(112,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Alin\Desktop\Proiect Echipa\TSP-Genetic\TSP-Genetic\TSP-Genetic.cpp(150,64): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\Alin\Desktop\Proiect Echipa\TSP-Genetic\TSP-Genetic\TSP-Genetic.cpp(172,86): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  TSP-Genetic.vcxproj -> C:\Users\Alin\Desktop\Proiect Echipa\TSP-Genetic\x64\Debug\TSP-Genetic.exe
